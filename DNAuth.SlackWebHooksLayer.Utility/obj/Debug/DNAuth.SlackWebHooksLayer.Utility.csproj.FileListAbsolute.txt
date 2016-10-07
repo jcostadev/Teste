@@ -1,0 +1,5 @@
+C:\TFS\Nova pasta\DNAuth\DNAuth\DNAuth.SlackWebHooksLayer.Utility\bin\Debug\DNAuth.SlackWebHooksLayer.Utility.dll
+C:\TFS\Nova pasta\DNAuth\DNAuth\DNAuth.SlackWebHooksLayer.Utility\bin\Debug\DNAuth.SlackWebHooksLayer.Utility.pdb
+C:\TFS\Nova pasta\DNAuth\DNAuth\DNAuth.SlackWebHooksLayer.Utility\obj\Debug\DNAuth.SlackWebHooksLayer.Utility.csprojResolveAssemblyReference.cache
+C:\TFS\Nova pasta\DNAuth\DNAuth\DNAuth.SlackWebHooksLayer.Utility\obj\Debug\DNAuth.SlackWebHooksLayer.Utility.dll
+C:\TFS\Nova pasta\DNAuth\DNAuth\DNAuth.SlackWebHooksLayer.Utility\obj\Debug\DNAuth.SlackWebHooksLayer.Utility.pdb
